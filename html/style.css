@@ -1,1 +1,12 @@
+body{background:transparent}
+#radial{
+width:320px;height:320px;border-radius:50%;
+background:#0a1f33;margin:200px auto;
+display:flex;flex-wrap:wrap;justify-content:center;align-items:center}
+.btn{
+width:130px;height:40px;margin:6px;
+background:#1e90ff;color:white;
+text-align:center;line-height:40px;border-radius:20px;
+user-select:none}
+.close{background:#d9534f}
 
